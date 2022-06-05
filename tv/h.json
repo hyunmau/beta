@@ -21,7 +21,7 @@
 
 
 # 直播
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL210di50ZXlvbmQuY24vbS96Yi50eHQ="]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext="]}]}],
 
 
 "sites":[
