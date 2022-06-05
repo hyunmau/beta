@@ -34,6 +34,23 @@
 {"key": "teyond__zh__在线之家","name": "在线之家〔P〕","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "teyond__zh__官方资源","name": "官方资源〔P〕","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
 
+//xpath线路
+
+{"key": "teyond__zh__极品影视","name": "极品影视〔X〕","type": 3,"api": "csp_XPathMac"      ,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://tyzx.weetai.cn/mtv/xpath/mao01.json"},
+{"key": "teyond__zh__动漫巴士","name": "动漫巴士〔X〕","type": 3,"api": "csp_XPath"         ,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://tyzx.weetai.cn/mtv/xpath/mao02.json"},
+{"key": "teyond__zh__AGE动漫" ,"name": "AGE动漫〔X〕 ","type": 3,"api": "csp_XPath"         ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://tyzx.weetai.cn/mtv/xpath/mao03.json"},
+{"key": "teyond__zh__影视工厂","name": "影视工厂〔X〕","type": 3,"api": "csp_XBiubiu"       ,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://tyzx.weetai.cn/mtv/xpath/mao04.json"},
+{"key": "teyond__zh__三五影院","name": "三五影院〔X〕","type": 3,"api": "csp_XBiubiu"       ,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://tyzx.weetai.cn/mtv/xpath/mao05.json"},
+{"key": "teyond__zh__乐猪影视","name": "乐猪影视〔X〕","type": 3,"api": "csp_XBiubiu"       ,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://tyzx.weetai.cn/mtv/xpath/mao06.json"},
+{"key": "teyond__zh__乐猪影院","name": "乐猪影院〔X〕","type": 3,"api": "csp_XPathMac"      ,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://tyzx.weetai.cn/mtv/xpath/mao07.json"},
+{"key": "teyond__zh__数字看片","name": "数字看片〔X〕","type": 3,"api": "csp_XPathRec"      ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://tyzx.weetai.cn/mtv/xpath/mao08.json"},
+{"key": "teyond__zh__综合资源","name": "综合资源〔X〕","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://tyzx.weetai.cn/mtv/xpath/mao09.json"},
+
+//切片线路
+
+{"key": "teyond__zh__南国影视","name": "南国影视〔Q〕","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/"                                        ,"searchable":1,"quickSearch":1},
+{"key": "teyond__zh__艾思影院","name": "艾思影院〔Q〕","type":1,"api":"https://www.aitee.cc/api.php/provide/vod/"   ,"playUrl":"https://jx.zjmiao.com/?url=","searchable":1,"quickSearch":1},
+{"key": "teyond__zh__看猫影视","name": "看猫影视〔Q〕","type":1,"api":"http://124.222.83.15:88/api.php/provide/vod/","playUrl":"parse:parwix1"              ,"searchable":1,"quickSearch":1},
 ##03.🥒(非官方)小黄瓜大佬 XBiubiu
 ## --> spider 改 "spider":"img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png",
 
