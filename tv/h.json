@@ -21,7 +21,7 @@
 
 
 # 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://hyunmau.github.io/tv/zb61.txt"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9oeXVubWF1LmdpdGh1Yi5pby90di96YjYxLnR4dA=="]}]}],
 
 
 "sites":[
