@@ -26,14 +26,6 @@
 
 "sites":[
 
-//爬虫线路
-{"key": "teyond__zh__首页推荐","name": "首页推荐〔P〕","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "teyond__zh__焦炭影视","name": "焦炭影视〔P〕","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "teyond__zh__七七影院","name": "七七影院〔P〕","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "teyond__zh__奈落影院","name": "奈落影院〔P〕","type": 3,"api": "csp_Newfii","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "teyond__zh__在线之家","name": "在线之家〔P〕","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "teyond__zh__官方资源","name": "官方资源〔P〕","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
-
 //切片线路
 
 {"key": "teyond__zh__南国影视","name": "南国影视〔Q〕","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/"                                        ,"searchable":1,"quickSearch":1},
