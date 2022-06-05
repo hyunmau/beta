@@ -49,10 +49,6 @@
 {"key": "teyond__gf__好的影视","name": "好的影视〔G〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://123.ok00.xyz/api.php/v1.vod"},
 {"key": "teyond__gf__一零八零","name": "一零八零〔G〕","type": 3,"api": "csp_AppYsV2"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://123.250idc.com/mogai_api.php/v1.vod"},
 
-//绅士线路
-
-{"key": "teyond__fl__芒果资源","name": "芒果资源〔C〕","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0}],
-
 ##03.🥒(非官方)小黄瓜大佬 XBiubiu
 ## --> spider 改 "spider":"img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png",
 
