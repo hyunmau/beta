@@ -4,6 +4,7 @@
 {"name":"独播社","url":"http://35ys.cc/api.php/v1.vod"},
 {"name":"秒播影院","url":"http://app.ppli.xyz/api.php/v1.vod"},
 {"name":"皮皮兔","url":"https://v.pipitu.top/xgapp.php/v2/"},
+{"name":"ok","url":"http://123.ok00.xyz/api.php/v1.vod"},
 {"name":"飓风影视","url":"http://jf.35ys.cc/lehailb_api.php/v1.vod"},
 {"name":"瑞丰影视","url":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
 {"name":"爱酷影视","url":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
