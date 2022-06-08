@@ -4,7 +4,7 @@
 
 # spider
  00.官方jar
-"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
+//"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
 
 // 01.🐼 (非官方) 缝合jar
 //"spider":"https://raw.fastgit.org/YuanHsing/OneClickRun/master/xpath/custom_spider.jar",
