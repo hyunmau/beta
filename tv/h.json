@@ -33,16 +33,7 @@
 {"key": "小宝影院", "name":"小宝影院","type": 3,"api": "csp_Xiaoh","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Auete","name": "Auete","type": 3,"api": "csp_Auete","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "csp_Aidi","name": "爱迪","type": 3,"api": "csp_Aidi","searchable": 1,"quickSearch": 0,"filterable": 1},
-{"key": "csp_Enlienli","name": "嗯哩嗯哩","type": 3,"api": "csp_Enlienli","searchable": 1,"quickSearch": 0,"filterable": 1},
-{"key": "csp_Buka","name": "真不卡(测试)","type": 3,"api": "csp_Buka","searchable": 0,"quickSearch": 0,"filterable": 1},
-{"key": "csp_Ysgc","name": "影视工厂","type": 3,"api": "csp_Ysgc","searchable": 1,"quickSearch": 0,"filterable": 1},
-{"key": "csp_N0ys","name": "90影视","type": 3,"api": "csp_N0ys","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "csp_Nekk","name": "9E看看","type": 3,"api": "csp_Nekk","searchable": 1,"quickSearch": 0,"filterable": 1},
-{"key": "csp_Imaple","name": "枫林网(P)","type": 3,"api": "csp_Imaple","searchable": 1,"quickSearch": 0,"filterable": 1},
-{"key": "csp_Jumi","name": "剧迷(P)","type": 3,"api": "csp_Jumi","searchable": 1,"quickSearch": 0,"filterable": 1},
-{"key": "csp_Nfx","name": "NFXHD(P)","type": 3,"api": "csp_Nfx","searchable": 1,"quickSearch": 0,"filterable": 1},
-//{"key": "csp_YydsAli1","name": "YYDS阿里(P)","type": 3,"api": "csp_YydsAli1","searchable": 1,"quickSearch": 0,"filterable": 0},
+{"key": "csp_YydsAli1","name": "YYDS阿里(P)","type": 3,"api": "csp_YydsAli1","searchable": 1,"quickSearch": 0,"filterable": 0},
       
 //切片线路
 
@@ -304,7 +295,7 @@
 {"key":"*色屌丝资源","name":"*色屌丝资源","type":0,"api":"http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"*小姐姐资源","name":"*小姐姐资源","type":0,"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"*52AVAV","name":"*52AVAV","type":0,"api":"https://52zyapi.com/home/cjapi/asda/mc10/vod/xml","searchable":0,"quickSearch":0},
-//{"key":"*水帘洞资源","name":"*水帘洞资源","type":1,"api":"https://www.sldcaiji.com/home/cjapi/s6da/mc10/vod/json","searchable":0,"quickSearch":0},
+{"key":"*水帘洞资源","name":"*水帘洞资源","type":1,"api":"https://www.sldcaiji.com/home/cjapi/s6da/mc10/vod/json","searchable":0,"quickSearch":0},
 {"key":"*我要啪啪","name":"*我要啪啪","type":0,"api":"http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"*AV集中淫","name":"*AV集中淫","type":0,"api":"https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"*夜夜撸资源","name":"*夜夜撸资源","type":0,"api":"https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml","searchable":0,"quickSearch":0},
@@ -435,7 +426,7 @@
 {"name":"CL4K02","type":0,"url":"https://app.okmedcos.com/4k/?url=","ext":{"flag":["CL4K","qq","腾讯","pptv","PPTV"]}}
 ],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
-"spider": "https://hyunmau.github.io/tv/custom_spider.jar",
+//"spider": "https://hyunmau.github.io/tv/custom_spider.jar",
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
