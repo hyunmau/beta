@@ -485,7 +485,6 @@
 ],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
 "spider": "https://hyunmau.github.io/tv/custom_spider.jar",
-"spider": "https://hyunmau.github.io/tv/custom_spider.txt",
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
