@@ -87,9 +87,8 @@
 {"name":"初心影视","url":"https://www.5znn.video/api.php/v1.vod"},
 {"name":"HG影视","url":"http://bbq.1006.tk/api.php/v1.vod"},
 {"name":"4k狗影视","url":"http://4kdog.tk/api.php/app/"},
-{"name":"暖光影视","url":"https://app.bl210.com/api.php/v1.vod"}
- {"name":"看365","url":"https://www.kan365.xyz/api.php/app/"},
-
+{"name":"暖光影视","url":"https://app.bl210.com/api.php/v1.vod"},
+ {"name":"看365","url":"https://www.kan365.xyz/api.php/app/"}
 ],
 "caijizhan": [
 {"name":"酷云七七","url":"http://api.kunyu77.com/api.php"},
