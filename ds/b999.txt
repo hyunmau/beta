@@ -277,7 +277,7 @@
     "url": "http://www.lezhutv.com",
     "tihuan": "cnzz.com",
     "User": "空",
-    "fenlei": "电视剧$/type/2-#电影$/type/1-#综艺$/type/3-#动漫$/type/4-#韩剧$/type/14-#美剧$/type/15-#公众号白侃天下$/type/16-",
+    "fenlei": "电视剧$/type/2-#电影$/type/1-#综艺$/type/3-#动漫$/type/4-#港剧$/type/13-#韩剧$/type/14-#美剧$/type/15-#公众$/type/16-",
     "houzhui": ".html",
     "shifouercijiequ": "0",
     "jiequqian": "空",
