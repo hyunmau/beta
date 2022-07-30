@@ -110,6 +110,7 @@
 {"name":"人人","url":"https://jx.blbo.cc:4433/?url="},
 {"name":"虾米","url":"https://jx.xmflv.com/?url="},
 {"name":"多多","url":"https://player.movie09.com/dplayer/?url="},
+{"name":"8090","url":"https://www.8090g.cn/?url="},
 {"name":"九亿","url":"https://m3u8.look4you.top/?url="}
 ],
 
