@@ -1,4 +1,5 @@
 {"zhuyejiekou": [
+{"name":"爱酷影视","url":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
 {"name":"9e影视","url":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"name":"嗷呜影院","url":"http://www.cx99999.cn/lvdou_api.php/v1.vod"},
 {"name":"影视大全2","url":"https://app.okmedcos.com/api.php/v1.vod"},
