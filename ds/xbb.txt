@@ -372,7 +372,7 @@
 "jiequhou": "空",
 "jiequshuzuqian": "class=\"match-item\"",
 "jiequshuzuhou": "</a>",
-"tupianqian": "https://img0.baidu.com/it/u=959607043,1054237520&fm=253&fmt=auto&app=138&f=JPEG?w=417&h=500",
+"tupianqian": "http://www.putclub.com/uploads/150608/2219289_093126_1.jpg",
 "tupianhou": "\"",
 "biaotiqian": "class=\"col-home flex\">",
 "biaotihou": "</div>",
