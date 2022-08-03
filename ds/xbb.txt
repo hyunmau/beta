@@ -103,8 +103,8 @@
 {"name":"解析12","url":"http://jx.yjhan.com:8090/home/api?type=ys&uid=243669&key=adnqrtwyFJLOW02679&url="},
 {"name":"解析13","url":"https://vip.parwix.com:4433/player/?url="},
 {"name":"解析14","url":"https://ys.ling00.cn/CL4K/?url="},
-{"name":"解析15","url":"https://jx.xiaot.cc:2222/api/?url="}
-{"name":"解析16","url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
+{"name":"解析15","url":"https://jx.xiaot.cc:2222/api/?url="},
+{"name":"解析16","url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="}
 ],
 
 "beiyongjiexi": [
