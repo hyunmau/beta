@@ -14,6 +14,7 @@
 ],
 "zhuyejiekou": [
 {"name":"爱酷影视","url":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
+{"name":"优众影视","url":"http://121.205.88.178:8090/xgapp.php/v2/"},
 {"name":"爱电影","url":"https://www.idianying.com.cn/mogai_api.php/v1.vod"},
 {"name":"9e影视","url":"http://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"name":"嗷呜影院","url":"http://www.cx99999.cn/lvdou_api.php/v1.vod"},
