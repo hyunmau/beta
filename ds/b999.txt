@@ -103,7 +103,7 @@
 }
 },
 "zidingyi":[
-    {"name": "影视工厂",
+{"name": "影视工厂",
     "url": "https://www.ysgc.cc",
     "tihuan": "cnzz.com",
     "User": "空",
