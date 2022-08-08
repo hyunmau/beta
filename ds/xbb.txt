@@ -98,7 +98,7 @@
 {"name":"解析7_扶风","url":"https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url="},
 {"name":"解析8_融兴","url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
 {"name":"解析9_多多","url":"http://qiqi.520say.cn/json/dd.php?url="},
-{"name":"解析10_极速","url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
+{"name":"解析10","url":"https://play.fuqizhishi.com/mov/API.php?appkey=QQ172598364&url="},
 {"name":"解析11","url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
 {"name":"解析12","url":"http://jx.yjhan.com:8090/home/api?type=ys&uid=243669&key=adnqrtwyFJLOW02679&url="},
 {"name":"解析13","url":"https://vip.parwix.com:4433/player/?url="},
