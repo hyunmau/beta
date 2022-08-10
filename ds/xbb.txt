@@ -1292,7 +1292,7 @@
 },
 {
   "name": "小熊影视",
-  "url": "http://www.xxys520.com/",
+  "url": "http://www.xxys520.com",
   "User": "空",
   "shouye": "1",
   "fenlei": "最新电影$/vodshow/1-----------2022/page/#最新国产剧$/vodshow/2-----------2022/page/#港台剧$/vodtype/14-#日韩剧$/vodtype/15-#欧美剧$/vodtype/16-#泰国剧$/vodtype/29-#其他剧$/vodtype/27-#动漫$/vodtype/3-#综艺$/vodtype/4-#纪录片$/vodtype/5-",
@@ -1410,7 +1410,7 @@
 },
 {
   "name": "利丽娅电影",
-  "url": "https://www.llyady.com/",
+  "url": "https://www.llyady.com",
   //"User": "User-Agent:Dart/2.14 (dart:io)",
   "shouye": "1",
   "fenlei": "电影$/vodshow/1--hits------#国产剧$/vodshow/28--------#日韩剧$/vodshow/29--------#欧美剧$/vodshow/30--------#港台剧$/vodshow/31--------#其他剧$/vodshow/31--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------",
@@ -1469,7 +1469,7 @@
 },
 {
   "name": "七年影视",
-  "url": "https://www.lipinvip.com/",
+  "url": "https://www.lipinvip.com",
   //"User": "User-Agent:Dart/2.14 (dart:io)",
   "shouye": "1",
   "fenlei": "电影$/vodshow/1--time------#国产剧$/vodshow/12--------#网剧$/vodshow/20--------#欧美剧$/vodshow/15--------#日韩剧$/vodshow/14--------#港台剧$/vodshow/13--------#海外剧$/vodshow/18--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#国产动漫$/vodshow/4-大陆-------#日本动漫$/vodshow/4-日本-------",
@@ -1528,7 +1528,7 @@
 },
 {
   "name": "牛马TV",
-  "url": "http://www.niumatv.com/",
+  "url": "http://www.niumatv.com",
   //"User": "User-Agent:Dart/2.14 (dart:io)",
   "shouye": "1",
   "fenlei": "电影$/type/dianying-#电视剧$/type/dianshiju-#国产剧$/vodshow/area/中国大陆/id/dianshiju/page/#港剧$/vodshow/area/中国香港/id/dianshiju/page/#韩剧$/vodshow/area/韩国/id/dianshiju/page/#欧美剧$/vodshow/area/美国/id/dianshiju/page/#综艺$/type/zongyi-#动漫$/type/dongman-",
@@ -1588,7 +1588,7 @@
 },
 {
   "name": "豆角网",
-  "url": "https://m.doujiaow1.com/",
+  "url": "https://m.doujiaow1.com",
   "User": "空",
   "shouye": "1",
   "fenlei": "电影$/index.php?m=vod-list-id-1-pg-#国产剧$/index.php?m=vod-list-id-12-pg-#港剧$/index.php?m=vod-list-id-13-pg-#台剧$/index.php?m=vod-list-id-14-pg-#韩剧$/index.php?m=vod-list-id-15-pg-#日剧$/index.php?m=vod-list-id-17-pg-#美剧$/index.php?m=vod-list-id-16-pg-#海外剧$/index.php?m=vod-list-id-18-pg-#综艺$/index.php?m=vod-list-id-30-pg-#动漫$/index.php?m=vod-list-id-4-pg-",
@@ -1647,7 +1647,7 @@
 },
 {
   "name": "爱看影视",
-  "url": "https://ikan6.vip/",
+  "url": "https://ikan6.vip",
   "shouye": "1",
   "fenlei": "电影$/vodshow/1--------#国产剧$/vodshow/13--------#港台剧$/vodshow/14--------#日韩剧$/vodshow/15--------#欧美剧$/vodshow/16--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#记录片$/vodshow/20--------#国创$/vodshow/21--------#动漫$/vodshow/4--------#动漫$/vodshow/4--------",
   "houzhui": "---/",
@@ -2246,7 +2246,7 @@
 "bflianjiehou": "\""},
 {
   "name": "凛冬又至",
-  "url": "https://ldyz.live/",
+  "url": "https://ldyz.live",
   "shouye": "1",
   "fenlei": "电影$/vodtype/1-#欧美剧$/vodtype/20-#日剧$/vodtype/24-#韩剧$/vodtype/21-#泰剧$/vodtype/23-#动漫$/vodtype/4-",
   "houzhui": ".html",
@@ -2590,7 +2590,7 @@
 },
 {
   "name": "极品影视",
-  "url": "https://www.jpys.me/",
+  "url": "https://www.jpys.me",
   //"User": "User-Agent:Dart/2.14 (dart:io)",
   "shouye": "1",
   "fenlei": "电影$/vodshow/1--------#电视剧$/vodshow/2--------#国产剧$/vodshow/13--------#港台剧$/vodshow/14--------#日韩剧$/vodshow/15--------#欧美剧$/vodshow/16--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------",
@@ -2935,7 +2935,7 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
 {"name": "茶杯狐",
-"url": "https://www.cupfox.cc/",
+"url": "https://www.cupfox.cc",
 "tihuan": "cnzz.com",
 "fenlei": "电影$/fox/1-#电视剧$/fox/2-#综艺$/fox/3-#动漫$/fox/4-#伦理片$/fox/20-",
 "houzhui": ".html",
