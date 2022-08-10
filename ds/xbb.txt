@@ -94,7 +94,7 @@
 {"name":"解析2","url": "https://qpjx.qd234.cn/api/?key=P3qis0etpcxML9Ddo2&url="},
 {"name":"解析3","url":"http://106.55.234.91:4433/?url="},
 {"name":"解析4_左岸","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="},
-{"name":"解析5_失效","url":"https://za.kuanjv.com/?url="},
+{"name":"解析5_fuqi","url":"https://play.fuqizhishi.com/ggtv/API.php?appkey=QQ172598364&url="},
 {"name":"解析6_太空","url":"http://124.222.68.182/jiexi/4kJX.php/?url="},
 {"name":"解析7_扶风","url":"https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url="},
 {"name":"解析8_融兴","url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
