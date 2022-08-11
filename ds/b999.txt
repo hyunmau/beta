@@ -79,7 +79,7 @@
 "beiyongjiexi":"https://jx.parwix.com:4433/player/?url=#https://www.8090g.cn/?url=#https://jx.xmflv.com/?url=#https://nbjx.vip/?url=#https://api.okjx.cc:3389/jx.php?url=#https://www.xymav.com/?url=#http://47.100.138.210:92/?url=",
 "dianshizhibo": "https://cdn.jsdelivr.net/gh/hyunmau/beta@main/ds/zb.txt",
 "tiyuzhibo": "https://m.zhibo8.net",
-"guolvdizhi": "player.css#url=#cnzz.com#51.la#poster#api.php",
+"guolvdizhi":"player.css#url=#51.la#poster#api.php#file=#cnzz.com#baidu.com#.gif",
 "wuqu": "aHR0cDovL3d3dy5kanV1LmNvbQ==",
 "Home": {
 "dy": {
