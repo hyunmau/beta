@@ -99,7 +99,7 @@
 {"name":"解析6_太空","url":"http://124.222.68.182/jiexi/4kJX.php/?url="},
 {"name":"解析7_扶风","url":"https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url="},
 {"name":"解析8_融兴","url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
-{"name":"解析9_多多","url":"http://qiqi.520say.cn/json/dd.php?url="},
+{"name":"解析9_五毒","url":"http://211.99.99.236:3232/kuaikan.php?url="},
 {"name":"解析10","url":"https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
 {"name":"解析11","url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
 {"name":"解析12","url":"http://jx.yjhan.com:8090/home/api?type=ys&uid=243669&key=adnqrtwyFJLOW02679&url="},
