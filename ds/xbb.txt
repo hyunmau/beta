@@ -91,7 +91,7 @@
 ],
 
 "zhujiexi": [
-{"name":"解析1","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
+{"name":"解析1","url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
 {"name":"解析2","url": "https://qpjx.qd234.cn/api/?key=P3qis0etpcxML9Ddo2&url="},
 {"name":"解析3","url":"http://106.55.234.91:4433/?url="},
 {"name":"解析4_左岸","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="},
