@@ -75,7 +75,7 @@
 {"name": "待添加","fanye": "aHR0cHM6Ly93d3cueXkuY29tL21vcmUvcGFnZS5hY3Rpb24/Yml6PXNpbmcmc3ViQml6PWlkeCZwYWdlPQ==","qianzhui": "aHR0cHM6Ly93d3cueXkuY29t"}],
 "zhujiexi":"http://211.99.99.236:3232/kuaikan.php?url=#https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url=#http://211.99.99.236:4567/jhjson/ceshi.php?url=#https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url=#http://211.99.99.236:4567/jhjson/lbtv.php?url=#https://json.hfyrw.com/mao.go?url=#https://jx.300ys.xyz/json/jh.php/?url=#https://jf.1080p.icu:3377/home/api?type=ys&uid=139706&key=cgjlntwxzAEMQTUVWX&url=#http://150.230.216.174/tvjx.php?url=",
 "beiyongjiexi":"https://jx.parwix.com:4433/player/?url=#https://www.8090g.cn/?url=#https://jx.xmflv.com/?url=#https://nbjx.vip/?url=#https://api.okjx.cc:3389/jx.php?url=#https://www.xymav.com/?url=#http://47.100.138.210:92/?url=",
-"dianshizhibo": "https://raw.fastgit.org/hyunmau/beta/main/ds/zb.txt",
+"dianshizhibo": "https://raw.yzuu.cf/hyunmau/beta/main/ds/zb.txt",
 "tiyuzhibo": "https://m.zhibo8.net",
 "guolvdizhi":"player.css#url=#51.la#poster#api.php#file=#cnzz.com#baidu.com#.gif",
 "wuqu": "aHR0cDovL3d3dy5kanV1LmNvbQ==",
