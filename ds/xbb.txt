@@ -94,9 +94,9 @@
 {"name":"解析1","url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
 {"name":"解析2","url": "https://qpjx.qd234.cn/api/?key=P3qis0etpcxML9Ddo2&url="},
 {"name":"解析3","url":"http://106.55.234.91:4433/?url="},
-{"name":"解析4_左岸","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="},
-{"name":"解析5_fuqi","url":"https://play.fuqizhishi.com/ggtv/API.php?appkey=QQ172598364&url="},
-{"name":"解析6_太空","url":"http://124.222.68.182/jiexi/4kJX.php/?url="},
+{"name":"解析4_bynote","url":"https://jx.bynote.top/API.php?url="},
+{"name":"解析5_fuqi","url":"https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url="},
+{"name":"解析6_freejx","url":"https://json.freejx.in/?url="},
 {"name":"解析7_扶风","url":"https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url="},
 {"name":"解析8_融兴","url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
 {"name":"解析9_五毒","url":"http://211.99.99.236:3232/kuaikan.php?url="},
@@ -111,11 +111,11 @@
 
 "beiyongjiexi": [
 {"name":"左岸","url":"https://jx.parwix.com:4433/player/analysis.php?v="},
-{"name":"人人","url":"https://jx.blbo.cc:4433/?url="},
+{"name":"bozrc","url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"虾米","url":"https://jx.xmflv.com/?url="},
 {"name":"多多","url":"https://player.movie09.com/dplayer/?url="},
 {"name":"8090","url":"https://www.8090g.cn/?url="},
-{"name":"xiaot","url":"https://jx.xiaot.cc:2222/?url="},
+{"name":"parwix","url":"https://jx.parwix.com:4433/player/analysis.php?v="},
 {"name":"九亿","url":"https://m3u8.look4you.top/?url="}
 ],
 
