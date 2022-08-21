@@ -92,8 +92,8 @@
 
 "zhujiexi": [
 {"name":"解析1","url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
-{"name":"解析2","url": "https://qpjx.qd234.cn/api/?key=P3qis0etpcxML9Ddo2&url="},
-{"name":"解析3","url":"http://106.55.234.91:4433/?url="},
+{"name":"解析2_NF","url":"https://jx.dgdgg.cn/api/?key=Os908eQBVXCwdvBlI7&url="},
+{"name":"解析3_RR","url":"https://jisu.rongxingvr.top/api/?key=2eCcARLRUqfPeuoX3B&url="},
 {"name":"解析4_bynote","url":"https://jx.bynote.top/API.php?url="},
 {"name":"解析5_fuqi","url":"https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url="},
 {"name":"解析6_freejx","url":"https://json.freejx.in/?url="},
@@ -105,14 +105,12 @@
 {"name":"解析12","url":"http://jx.yjhan.com:8090/home/api?type=ys&uid=243669&key=adnqrtwyFJLOW02679&url="},
 {"name":"解析13","url":"https://vip.parwix.com:4433/player/?url="},
 {"name":"解析14","url":"https://ys.ling00.cn/CL4K/?url="},
-{"name":"解析15","url":"http://150.230.216.174/tvjx.php?url="},
-{"name":"解析16","url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
-{"name":"解析17_RR","url":"https://jisu.rongxingvr.top/api/?key=2eCcARLRUqfPeuoX3B&url="},
-{"name":"解析18_CANGLAN","url":"http://jx.yjhan.com:8090/home/api?type=ys&uid=94229&key=abefilmrxAGHNPX356&url="},
-{"name":"解析19_NF","url":"https://jx.dgdgg.cn/api/?key=Os908eQBVXCwdvBlI7&url="},
-{"name":"解20_XRJX","url":"http://jx1920.chwain.com/home/api?type=ys&uid=87711&key=bdrsuvzBMQTVWX0567&url="},
-{"name":"解析21_TX","url":"http://110.42.2.115:880/analysis/json/?uid=2288&my=cilnvzELRTVWX03456&url="},
-{"name":"解析22_RX","url":"https://jisu.rongxingvr.top/api/rxm3u8.php?key=2eCcARLRUqfPeuoX3B&url="}
+{"name":"解析15","url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
+{"name":"解析16_CANGLAN","url":"http://jx.yjhan.com:8090/home/api?type=ys&uid=94229&key=abefilmrxAGHNPX356&url="},
+{"name":"解17_XRJX","url":"http://jx1920.chwain.com/home/api?type=ys&uid=87711&key=bdrsuvzBMQTVWX0567&url="},
+{"name":"解析18_TX","url":"http://110.42.2.115:880/analysis/json/?uid=2288&my=cilnvzELRTVWX03456&url="},
+{"name":"解析19_RX","url":"https://jisu.rongxingvr.top/api/rxm3u8.php?key=2eCcARLRUqfPeuoX3B&url="},
+{"name":"解析20","url":"http://150.230.216.174/tvjx.php?url="}
 ],
 
 "beiyongjiexi": [
