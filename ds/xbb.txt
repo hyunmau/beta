@@ -100,11 +100,12 @@
 
 "dianshizhibo": "https://cdn.staticaly.com/gh/tvbw/mytv/main/tv88",
  
-"guolvdizhi":"player.css#url=#51.la#poster#api.php#file=#auth_#cnzz.com#pap.html#baidu.com#tootw.com#auete.com#douyin",
+"guolvdizhi":"player.css#url=#51.la#poster#api.php#file=#auth_#cnzz.com#pap.html#baidu.com#tootw.com#auete.com#douyin#.gif",
 
 "zidingyi": [
 {"name": "❤BiLiBiLi",  
-"url": "https://api.bilibili.com",  
+"url": "https://api.bilibili.com",
+"ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
 "User": "空",     
 "直接播放": "0",
 "横图显示": "1",
