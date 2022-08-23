@@ -100,7 +100,7 @@
 
 "dianshizhibo": "https://cdn.staticaly.com/gh/tvbw/mytv/main/tv88",
  
-"guolvdizhi": ".css#rl=#51.la#poster#api.php#file=#.ico#cnzz.com#.html#baidu.com#tootw.com#auete.com#.gif#.js",
+"guolvdizhi": ".gif#.js#.css#rl=#.ico#.html#51.la#poster#api.php#file=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
 
 "zidingyi": [
 {"name": "❤BiLiBiLi",  
@@ -357,7 +357,7 @@
 "jiequhou": "空",
 "jiequshuzuqian": "class=\"match-item\"",
 "jiequshuzuhou": "</a>",
-"tupianqian": "http://www.putclub.com/uploads/150608/2219289_093126_1.jpg",
+"tupianqian": "https://raw.yzuu.cf/hyunmau/cs/main/fifa.jpg",
 "tupianhou": "\"",
 "biaotiqian": "class=\"col-home flex\">",
 "biaotihou": "</div>",
