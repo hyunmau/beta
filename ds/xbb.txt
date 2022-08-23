@@ -100,7 +100,7 @@
 
 "dianshizhibo": "https://cdn.staticaly.com/gh/tvbw/mytv/main/tv88",
  
-"guolvdizhi":"player.css#url=#51.la#poster#api.php#file=#auth_#cnzz.com#pap.html#baidu.com#tootw.com#auete.com#douyin#.gif",
+"guolvdizhi": ".css#rl=#51.la#poster#api.php#file=#.ico#cnzz.com#.html#baidu.com#tootw.com#auete.com#.gif#.js",
 
 "zidingyi": [
 {"name": "❤BiLiBiLi",  
