@@ -66,10 +66,10 @@
 ],
 
 "zhujiexi": [
-{"name":"解析1_融兴","url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
-{"name":"解析2_NF","url":"https://jx.dgdgg.cn/api/?key=Os908eQBVXCwdvBlI7&url="},
-{"name":"解析3_RR","url":"https://jisu.rongxingvr.top/api/?key=2eCcARLRUqfPeuoX3B&url="},
-{"name":"解析4_bynote","url":"https://jx.bynote.top/API.php?url="},
+{"name":"解析1_bynote","url":"https://jx.bynote.top/API.php?url="},
+{"name":"解析2_融兴","url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
+{"name":"解析3_NF","url":"https://jx.dgdgg.cn/api/?key=Os908eQBVXCwdvBlI7&url="},
+{"name":"解析4_RR","url":"https://jisu.rongxingvr.top/api/?key=2eCcARLRUqfPeuoX3B&url="},
 {"name":"解析5_fuqi","url":"https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url="},
 {"name":"解析6","url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
 {"name":"解析7_扶风","url":"https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url="},
