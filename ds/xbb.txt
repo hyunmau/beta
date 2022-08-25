@@ -576,7 +576,7 @@
 "bflianjiehou": "\""},
 {"name": "乐猪影视",
 "url": "http://www.lezhutv.com",
-"tihuan": "cnzz.com",
+"ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
 "User": "空",
 "fenlei": "电视剧$/type/2-#电影$/type/1-#综艺$/type/3-#动漫$/type/4-#港剧$/type/13-#韩剧$/type/14-#美剧$/type/15-",
 "houzhui": ".html",
