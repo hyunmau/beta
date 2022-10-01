@@ -98,7 +98,7 @@
 
 "zidingyi": [
 {"name": "歪片星球",
-"url": "http://waipian7.com",
+"url": "https://waipian7.com",
 "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
 
 //"ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
@@ -107,7 +107,7 @@
 "tihuan": "cnzz.com",
 "shouye": "1",
 "fenlei": "国产剧$/show-juji-中国大陆----------/page/#香港剧$/show-juji-中国香港----------/page/#韩国剧$/show-juji-韩国----------/page/#美国剧$/show-juji-美国----------/page/#综艺$/show-zongyi--------#动漫$/show-dongman--------#剧情片$/show-dianying---剧情--------/page/#科幻片$/show-dianying---科幻--------/page/#恐怖片$/show-dianying---恐怖--------/page/#动作片$/show-dianying---动作--------/page/#喜剧片$/show-dianying---喜剧--------/page/#战争片$/show-dianying---战争--------/page/#爱情片$/show-dianying---爱情--------/page/",
-"houzhui": "",
+"houzhui": ".html",
 "shifouercijiequ": "1",
 "jiequqian": "class=\"module-items",
 "jiequhou": "id=\"page",
