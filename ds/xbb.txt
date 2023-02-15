@@ -237,7 +237,7 @@
 "User": "User-Agent$123",
 "搜索手动验证": "1",
 //0：否，1：是
-"集数倒序":"0",
+"集数倒序":"1",
 "fenlei": "电视剧$/type/2-#电影$/type/1-#综艺$/type/3-#动漫$/type/4-#韩剧$/type/14-#美剧$/type/15-#其它$/type/16-",
 "houzhui": ".html",
 "shifouercijiequ": "0",
