@@ -3786,7 +3786,7 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
 {"name": "神马影院",
-"url": "https://www.6080x.cc",
+"url": "https://www.smdyy.cc",
 "fenlei": "电影$/show/1--------#电视剧$/show/2--------#动漫$/show/4--------#动作片$/show/6--hits------#喜剧片$/show/7--hits------#爱情片$/show/8--time------#科幻片$/show/9--score------#剧情片$/show/11--hits------#战争片$/show/12--------#纪录片$/show/26--------#动画片$/show/27--score------#国产剧$/show/13--------#港台剧$/show/14--------#日韩剧$/show/15--------#欧美剧$/show/16--------#泰剧$/show/28--------#国漫$/show/4-国产-score------#日漫$/show/4-日本-score------#欧美漫$/show/4-欧美-time------",
 "houzhui": "---.html",
 "shifouercijiequ": "0",
