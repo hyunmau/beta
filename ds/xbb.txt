@@ -41,7 +41,7 @@
 
 "zhujiexi": [
 {"name":"解1_","url":"http://ts.lmlemon.com/home/api?type=ys&uid=19083&key=32ca2fdd9690e842d5f54ecc78ae4f79&url="},
-{"name":"解析2_","url":"https://api.json.icu/api/?key=1d3834a00ca4c8680910a543c2968a26&url="},
+{"name":"解析2_","url":"https://jx.777jiexi.com/player/?url="},
 {"name":"解3_RX","url":"https://jisu.rongxingvr.top/api/rxm3u8.php?key=Ap3wuIbyrNDSePaDYm&url="},
 {"name":"解析4_RX","url":"https://jisu.rongxingvr.top/api/?key=Ap3wuIbyrNDSePaDYm&url="},
 {"name":"解析5_iqy","url":"http://43.249.192.246:2626/jhy/json.php?token=ktuxzCFGJNPQTWZ569&url="}
