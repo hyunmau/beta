@@ -1,7 +1,7 @@
 
 央视频道,#genre#
 
-CCTV1,http://220.170.241.204:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://220.170.241.204:9901/tsfile/live/0001_1.m3u8
 
 CCTV1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
 
@@ -208,3 +208,26 @@ IPTV萌宠TV,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/888888
 中国教育4台,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBzZToIaOOoaa_jAUfhUQHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD9BEmVSNbqSQpqXZxnxbk%2CEND
 
 山东教育,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226526/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEtk94qghXphElKOQlUC-Yw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOpyxkKQ6N6FjQz-LrJwo0o%2CEND
+
+翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+
+翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8
+
+翡翠台,http://m.osvs.asia:8000/bysid/1
+
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+
+翡翠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.1:11111
+
+翡翠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.121:11111
+
+翡翠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.122:11111
+
