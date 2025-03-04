@@ -1,6 +1,7 @@
 
 央视频道,#genre#
 
+CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 CCTV1,http://171.15.18.199:8180/TV00000000000000000001@HHZT
 
@@ -8,24 +9,22 @@ CCTV1,http://220.170.241.204:9901/tsfile/live/0001_1.m3u8
 
 CCTV1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
 
-CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-
+CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 
 CCTV2,http://171.15.18.199:8180/TV00000000000000000002@HHZT
-
-CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 
 CCTV2,http://220.170.241.204:9901/tsfile/live/0002_1.m3u8
 
 CCTV2,http://120.192.226.35:8009/hls/502/index.m3u8
 
+CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 
 CCTV3,http://171.15.18.199:8180/TV00000000000000000003@HHZT
 
 CCTV3,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_6GNVcVOz9Xub8CclyMRUg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
 
-CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
 
+CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
 
 CCTV4,http://171.15.18.199:8180/TV00000000000000000004@HHZT
 
@@ -33,14 +32,11 @@ CCTV4,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/
 
 CCTV4,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
-CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-
+CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 
 CCTV5,http://171.15.18.199:8180/TV00000000000000000005@HHZT
 
 CCTV5,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErKwB8Qqtvssoy-K7GEgesQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
-
-CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 
 CCTV5,http://220.170.241.204:9901/tsfile/live/0005_1.m3u8
 
