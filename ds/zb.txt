@@ -337,7 +337,7 @@ CGTN,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3
 
 电影台,http://iptv.huuc.edu.cn/hls/fhdy.m3u8
 
-CHCHD电影,http://iptv.huuc.edu.cn/hls/chchd.m3u8
+CHC电影HD,http://iptv.huuc.edu.cn/hls/chchd.m3u8
 
 CHC动作电影,http://iptv.huuc.edu.cn/hls/chcatv.m3u8
 
